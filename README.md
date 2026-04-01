@@ -1,4 +1,4 @@
 # SRB
 Speech Recoginition Book Demo
 
-https://saetbyeolkwon.github.io/Speech-Recognition-Book-For-Web/
+https://saemyname.github.io/Speech-Recognition-Book-For-Web/
